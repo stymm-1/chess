@@ -1,6 +1,7 @@
 # Online Chess Web Application
 
 This project is made under the IITISoC'2021 (IIT Indore Summer of Code 2021)
+https://chessiiti.netlify.app/
 
 ## Project Developers
 
